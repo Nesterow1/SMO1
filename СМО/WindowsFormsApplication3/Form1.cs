@@ -187,6 +187,14 @@ namespace WindowsFormsApplication3
             {
                 La = Convert.ToInt32(textBox3.Text);
                 Ny = Convert.ToInt32(textBox2.Text);
+                La = Convert.ToInt32(textBox3.Text);
+                Ny = Convert.ToInt32(textBox2.Text);
+                La = Convert.ToInt32(textBox3.Text);
+                Ny = Convert.ToInt32(textBox2.Text);
+                La = Convert.ToInt32(textBox3.Text);
+                Ny = Convert.ToInt32(textBox2.Text);
+                La = Convert.ToInt32(textBox3.Text);
+                Ny = Convert.ToInt32(textBox2.Text);
                 OtkazOdin();
                 richTextBox1.Text += Convert.ToString(p0) + " в системе находится 0 заявок\n";
                 richTextBox1.Text += Convert.ToString(p1) + " в системе находится 1 заявка\n";
